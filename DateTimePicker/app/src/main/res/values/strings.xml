@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DateTimePicker</string>
+    <string name="choose_date_and_time">Choose Date and Time</string>
+    <string name="ok">ok</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
